@@ -1,0 +1,339 @@
+{
+    "nodes": [
+      {
+        "id": "0",
+        "name": "非正式组织",
+        "symbolSize": 5,
+        "x": -266.82776,
+        "y": 299.6904,
+        "value": 5,
+        "category": 0
+      },
+      {
+        "id": "1",
+        "name": "正式组织",
+        "symbolSize": 4,
+        "x": -418.08344,
+        "y": 446.8853,
+        "value": 4,
+        "category": 1
+      },
+      {
+        "id": "2",
+        "name": "积极意义",
+        "symbolSize": 6,
+        "x": -212.76357,
+        "y": 245.29176,
+        "value":6,
+        "category": 2
+      },
+      {
+        "id": "3",
+        "name": "消极意义",
+        "symbolSize": 6,
+        "x": -242.82404,
+        "y": 235.26283,
+        "value": 6,
+        "category": 2
+      },
+      {
+        "id": "4",
+        "name": "沟通",
+        "symbolSize": 4,
+        "x": -379.30386,
+        "y": 429.06424,
+        "value": 4,
+        "category": 1
+      },
+      {
+        "id": "5",
+        "name": "恶性竞争减少",
+        "symbolSize": 4,
+        "x": -417.26337,
+        "y": 406.03506,
+        "value":4,
+        "category": 1
+      },
+      {
+        "id": "6",
+        "name": "个性化",
+        "symbolSize": 1,
+        "x": -332.6012,
+        "y": 485.16974,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "7",
+        "name": "凝聚力",
+        "symbolSize": 1,
+        "x": -382.69568,
+        "y": 475.09113,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "8",
+        "name": "内部斗争",
+        "symbolSize": 1,
+        "x": -320.384,
+        "y": 387.17325,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "9",
+        "name": "执行效率",
+        "symbolSize": 1,
+        "x": -344.39832,
+        "y": 451.16772,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "10",
+        "name": "纪律性降低",
+        "symbolSize": 2,
+        "x": -89.34107,
+        "y": 234.56128,
+        "value": 2,
+        "category": 4
+      },
+      {
+        "id": "11",
+        "name": "制度",
+        "symbolSize": 1,
+        "x": -87.93029,
+        "y": -6.8120565,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "12",
+        "name": "人情",
+        "x": -339.77908,
+        "y": -184.69139,
+        "symbolSize": 3,
+        "value": 3,
+        "category": 5
+      },
+      {
+        "id": "13",
+        "name": "感情",
+        "symbolSize": 1,
+        "x": -194.31313,
+        "y": 178.55301,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "14",
+        "name": "利益",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -127.701546,
+        "y": 242.55057,
+        "category": 3
+      },
+      {
+        "id": "15",
+        "name": "话语权分散",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+      {
+        "id": "16",
+        "name": "矛盾",
+        "symbolSize":1,
+        "value": 1,
+        "x": -627.701546,
+        "y": 642.55057,
+        "category": 3
+      },
+      {
+        "id": "17",
+        "name": "良性关系",
+        "symbolSize": 3,
+        "value": 3,
+        "x": -557.701546,
+        "y": 642.55057,
+        "category": 5
+      },
+      {
+        "id": "18",
+        "name": "目标一致",
+        "symbolSize": 2,
+        "value": 2,
+        "x": -627.701546,
+        "y": 542.55057,
+        "category": 4
+      },
+      {
+        "id": "20",
+        "name": "组织分裂",
+        "symbolSize":1,
+        "value": 1,
+        "x": -427.701546,
+        "y": 442.55057,
+        "category": 3
+      },
+      {
+        "id": "19",
+        "name": "目标不一致",
+        "symbolSize": 3,
+        "x": -516.55884,
+        "y": -393.98975,
+        "value": 3,
+        "category": 5
+      }
+    ],
+    "links": [
+      {
+        "source": "0",
+        "target": "1"
+      },
+      {
+        "source": "0",
+        "target": "2"
+      },
+      {
+        "source": "0",
+        "target": "3"
+      },
+      {
+        "source": "0",
+        "target": "13"
+      },
+      {
+        "source": "1",
+        "target": "11"
+      },
+      {
+        "source": "1",
+        "target": "0"
+      },
+      {
+        "source": "1",
+        "target": "14"
+      },
+      {
+        "source": "2",
+        "target": "4"
+      },
+      {
+        "source": "2",
+        "target": "5"
+      },
+      {
+        "source": "2",
+        "target": "7"
+      },
+      {
+        "source": "2",
+        "target": "6"
+      },
+      {
+        "source": "2",
+        "target": "17"
+      },
+      {
+        "source": "3",
+        "target": "10"
+      },
+      {
+        "source": "3",
+        "target": "9"
+      },
+      {
+        "source": "5",
+        "target": "13"
+      },
+      {
+        "source": "3",
+        "target": "15"
+      },
+      {
+        "source": "3",
+        "target": "16"
+      },
+      {
+        "source": "3",
+        "target": "20"
+      },
+      {
+        "source": "4",
+        "target": "17"
+      },
+      {
+        "source": "4",
+        "target": "5"
+      },
+      {
+        "source": "4",
+        "target": "7"
+      },
+      {
+        "source": "5",
+        "target": "7"
+      },
+      {
+        "source": "5",
+        "target": "8"
+      },
+      {
+        "source": "5",
+        "target": "17"
+      },
+      {
+        "source": "10",
+        "target": "20"
+      },
+      {
+        "source": "12",
+        "target": "10"
+      },
+      {
+        "source": "12",
+        "target": "11"
+      },
+      {
+        "source": "17",
+        "target": "5"
+      },
+      {
+        "source": "17",
+        "target": "6"
+      },
+      {
+        "source": "18",
+        "target": "2"
+      },
+      {
+        "source": "19",
+        "target": "3"
+      }
+    ],
+    "categories": [
+      {
+        "name": "类目0"
+      },
+      {
+        "name": "类目1"
+      },
+      {
+        "name": "类目2"
+      },
+      {
+        "name": "类目3"
+      },
+      {
+        "name": "类目4"
+      },
+      {
+        "name": "类目5"
+      }
+    ]
+  }
