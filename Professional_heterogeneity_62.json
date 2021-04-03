@@ -1,0 +1,475 @@
+{
+    "nodes": [
+      {
+        "id": "0",
+        "name": "非正式组织",
+        "symbolSize": 8,
+        "x": -266.82776,
+        "y": 299.6904,
+        "value": 8,
+        "category": 0
+      },
+      {
+        "id": "1",
+        "name": "正式组织",
+        "symbolSize":4,
+        "x": -418.08344,
+        "y": 446.8853,
+        "value":4,
+        "category": 1
+      },
+      {
+        "id": "2",
+        "name": "创造条件",
+        "symbolSize": 1,
+        "x": -212.76357,
+        "y": 245.29176,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "3",
+        "name": "赋予活力",
+        "symbolSize": 1,
+        "x": -242.82404,
+        "y": 235.26283,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "4",
+        "name": "凝聚力",
+        "symbolSize": 1,
+        "x": -379.30386,
+        "y": 429.06424,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "5",
+        "name": "完整人格",
+        "symbolSize": 1,
+        "x": -417.26337,
+        "y": 406.03506,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "6",
+        "name": "归属感",
+        "symbolSize": 2,
+        "x": -332.6012,
+        "y": 485.16974,
+        "value": 2,
+        "category": 2
+      },
+      {
+        "id": "7",
+        "name": "积极影响",
+        "symbolSize": 17,
+        "x": -382.69568,
+        "y": 475.09113,
+        "value": 17,
+        "category": 4
+      },
+      {
+        "id": "8",
+        "name": "消极影响",
+        "symbolSize": 5,
+        "x": -320.384,
+        "y": 387.17325,
+        "value":5,
+        "category": 5
+      },
+      {
+        "id": "9",
+        "name": "影响组织目标",
+        "symbolSize": 1,
+        "x": -344.39832,
+        "y": 451.16772,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "10",
+        "name": "与正式组织抗衡",
+        "symbolSize": 1,
+        "x": -89.34107,
+        "y": 234.56128,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "11",
+        "name": "瓦解正式组织",
+        "symbolSize": 1,
+        "x": -150.34107,
+        "y": 234.56128,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "12",
+        "name": "控制性",
+        "symbolSize": 1,
+        "x": -87.93029,
+        "y": -6.8120565,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "13",
+        "name": "不稳定性",
+        "x": -339.77908,
+        "y": -184.69139,
+        "symbolSize": 2,
+        "value": 2,
+        "category": 2
+      },
+      {
+        "id": "14",
+        "name": "稳定性",
+        "symbolSize": 4,
+        "x": -194.31313,
+        "y": 178.55301,
+        "value": 4,
+        "category": 1
+      },
+      {
+        "id": "15",
+        "name": "无规范",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -127.701546,
+        "y": 242.55057,
+        "category": 3
+      },
+      {
+        "id": "16",
+        "name": "不定型",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+      {
+        "id": "17",
+        "name": "拉帮结派",
+        "symbolSize":2,
+        "value": 2,
+        "x": -627.701546,
+        "y": 642.55057,
+        "category": 2
+      },
+      {
+        "id": "18",
+        "name": "开放",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -557.701546,
+        "y": 642.55057,
+        "category": 3
+      },
+      {
+        "id": "19",
+        "name": "更新快",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -627.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+      {
+        "id": "20",
+        "name": "无官僚主义",
+        "symbolSize":1,
+        "value": 1,
+        "x": -427.701546,
+        "y": 742.55057,
+        "category": 3
+      },
+     {
+        "id": "21",
+        "name": "强制作用",
+        "symbolSize":1,
+        "value": 1,
+        "x": -727.701546,
+        "y": 442.55057,
+        "category": 3
+      },
+     {
+        "id": "22",
+        "name": "亲密关系",
+        "symbolSize":1,
+        "value": 1,
+        "x": -327.701546,
+        "y": 442.55057,
+        "category": 3
+      },
+     {
+        "id": "23",
+        "name": "交叉关系",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 642.55057,
+        "category": 3
+      },
+     {
+        "id": "24",
+        "name": "向心力",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+     {
+        "id": "25",
+        "name": "补偿心理",
+        "symbolSize":2,
+        "value": 2,
+        "x": -737.701546,
+        "y": 642.55057,
+        "category": 2
+      },
+     {
+        "id": "26",
+        "name": "自然形成",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 342.55057,
+        "category": 3
+      },
+     {
+        "id": "27",
+        "name": "动机",
+        "symbolSize":1,
+        "value": 1,
+        "x": -507.701546,
+        "y": 442.55057,
+        "category": 3
+      },
+     {
+        "id": "28",
+        "name": "自我调整",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 772.55057,
+        "category": 3
+      },
+     {
+        "id": "29",
+        "name": "安慰",
+        "symbolSize":1,
+        "value": 1,
+        "x": -777.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+     {
+        "id": "30",
+        "name": "关系和谐",
+        "symbolSize":2,
+        "value": 2,
+        "x": -667.701546,
+        "y": 542.55057,
+        "category": 2
+      },
+     {
+        "id": "31",
+        "name": "情感融洽",
+        "symbolSize":2,
+        "value": 2,
+        "x": -527.701546,
+        "y": 662.55057,
+        "category": 2
+      },
+      {
+        "id": "32",
+        "name": "满足生理需求",
+        "symbolSize": 1,
+        "x": -516.55884,
+        "y": -393.98975,
+        "value": 1,
+        "category": 3
+      }
+    ],
+    "links": [
+      {
+        "source": "0",
+        "target": "1"
+      },
+      {
+        "source": "1",
+        "target": "0"
+      },
+      {
+        "source": "7",
+        "target": "3"
+      },
+      {
+        "source": "7",
+        "target": "2"
+      },
+      {
+        "source": "6",
+        "target": "4"
+      },
+      {
+        "source": "7",
+        "target": "4"
+      },
+      {
+        "source": "13",
+        "target": "4"
+      },
+      {
+        "source": "14",
+        "target": "4"
+      },
+      {
+        "source": "7",
+        "target": "5"
+      },
+      {
+        "source": "7",
+        "target": "6"
+      },
+      {
+        "source": "8",
+        "target": "9"
+      },
+      {
+        "source": "8",
+        "target": "10"
+      },
+      {
+        "source": "8",
+        "target": "11"
+      },
+      {
+        "source": "7",
+        "target": "12"
+      },
+      {
+        "source": "0",
+        "target": "13"
+      },
+      {
+        "source": "1",
+        "target": "14"
+      },
+      {
+        "source": "0",
+        "target": "15"
+      },
+      {
+        "source": "0",
+        "target": "16"
+      },
+      {
+        "source": "8",
+        "target": "17"
+      },
+      {
+        "source": "7",
+        "target": "18"
+      },
+      {
+        "source": "7",
+        "target": "19"
+      },
+      {
+        "source": "7",
+        "target": "20"
+      },
+      {
+        "source": "1",
+        "target": "21"
+      },
+      {
+        "source": "0",
+        "target": "22"
+      },
+      {
+        "source": "23",
+        "target": "0"
+      },
+      {
+        "source": "7",
+        "target": "25"
+      },
+      {
+        "source": "26",
+        "target": "0"
+      },
+      {
+        "source": "25",
+        "target": "27"
+      },
+      {
+        "source": "7",
+        "target": "28"
+      },
+      {
+        "source": "7",
+        "target": "29"
+      },
+      {
+        "source": "7",
+        "target": "30"
+      },
+      {
+        "source": "14",
+        "target": "30"
+      },
+      {
+        "source": "31",
+        "target": "30"
+      },
+      {
+        "source": "23",
+        "target": "0"
+      },
+      {
+        "source": "7",
+        "target": "31"
+      },
+      {
+        "source": "14",
+        "target": "31"
+      },
+      {
+        "source": "7",
+        "target": "32"
+      },
+      {
+        "source": "24",
+        "target": "7"
+      }
+    ],
+    "categories": [
+      {
+        "name": "类目0"
+      },
+      {
+        "name": "类目1"
+      },
+      {
+        "name": "类目2"
+      },
+      {
+        "name": "类目3"
+      },
+      {
+        "name": "类目4"
+      },
+      {
+        "name": "类目5"
+      }
+    ]
+  }

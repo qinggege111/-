@@ -1,0 +1,561 @@
+{
+    "nodes": [
+      {
+        "id": "0",
+        "name": "正式组织",
+        "symbolSize": 8,
+        "x": -266.82776,
+        "y": 299.6904,
+        "value": 8,
+        "category": 0
+      },
+      {
+        "id": "1",
+        "name": "规章制度",
+        "symbolSize":1,
+        "x": -418.08344,
+        "y": 446.8853,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "2",
+        "name": "非正式组织",
+        "symbolSize":7,
+        "x": -212.76357,
+        "y": 245.29176,
+        "value":7,
+        "category": 1
+      },
+      {
+        "id": "3",
+        "name": "积极影响",
+        "symbolSize": 14,
+        "x": -242.82404,
+        "y": 235.26283,
+        "value":14,
+        "category": 5
+      },
+      {
+        "id": "4",
+        "name": "消极影响",
+        "symbolSize":8,
+        "x": -379.30386,
+        "y": 429.06424,
+        "value": 8,
+        "category": 0
+      },
+      {
+        "id": "5",
+        "name": "有序结构",
+        "symbolSize": 1,
+        "x": -417.26337,
+        "y": 406.03506,
+        "value":1,
+        "category": 3
+      },
+      {
+        "id": "6",
+        "name": "无系统",
+        "symbolSize": 2,
+        "x": -332.6012,
+        "y": 485.16974,
+        "value": 2,
+        "category": 2
+      },
+      {
+        "id": "7",
+        "name": "对正式组织冲击",
+        "symbolSize": 1,
+        "x": -382.69568,
+        "y": 475.09113,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "8",
+        "name": "破坏秩序",
+        "symbolSize": 2,
+        "x": -320.384,
+        "y": 387.17325,
+        "value":2,
+        "category": 2
+      },
+      {
+        "id": "9",
+        "name": "小团体",
+        "symbolSize": 3,
+        "x": -344.39832,
+        "y": 451.16772,
+        "value": 3,
+        "category": 4
+      },
+      {
+        "id": "10",
+        "name": "利益",
+        "symbolSize": 1,
+        "x": -89.34107,
+        "y": 234.56128,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "11",
+        "name": "合作",
+        "symbolSize": 2,
+        "x": -87.93029,
+        "y": -6.8120565,
+        "value": 2,
+        "category": 2
+      },
+      {
+        "id": "12",
+        "name": "创造力",
+        "x": -339.77908,
+        "y": -184.69139,
+        "symbolSize": 1,
+        "value": 1,
+        "category": 3
+      },
+      {
+        "id": "13",
+        "name": "打破隔阂",
+        "symbolSize":2,
+        "x": -194.31313,
+        "y": 178.55301,
+        "value": 2,
+        "category": 2
+      },
+      {
+        "id": "14",
+        "name": "提高效率",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -127.701546,
+        "y": 242.55057,
+        "category": 3
+      },
+      {
+        "id": "15",
+        "name": "协调",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+      {
+        "id": "16",
+        "name": "理性",
+        "symbolSize":1,
+        "value": 1,
+        "x": -627.701546,
+        "y": 642.55057,
+        "category": 3
+      },
+      {
+        "id": "17",
+        "name": "感性",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -557.701546,
+        "y": 642.55057,
+        "category": 3
+      },
+      {
+        "id": "18",
+        "name": "心理因素",
+        "symbolSize": 1,
+        "value": 1,
+        "x": -627.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+      {
+        "id": "19",
+        "name": "交流过多",
+        "symbolSize": 3,
+        "value": 3,
+        "x": -627.701546,
+        "y": 792.55057,
+        "category": 4
+      },
+      {
+        "id": "20",
+        "name": "无决策者",
+        "symbolSize":3,
+        "value": 3,
+        "x": -427.701546,
+        "y": 742.55057,
+        "category": 4
+      },
+     {
+        "id": "21",
+        "name": "执行力不高",
+        "symbolSize":2,
+        "value": 2,
+        "x": -727.701546,
+        "y": 442.55057,
+        "category": 2
+      },
+     {
+        "id": "22",
+        "name": "班级",
+        "symbolSize":2,
+        "value": 2,
+        "x": -327.701546,
+        "y": 442.55057,
+        "category": 2
+      },
+     {
+        "id": "23",
+        "name": "师生关系",
+        "symbolSize":2,
+        "value": 2,
+        "x": -527.701546,
+        "y": 642.55057,
+        "category": 2
+      },
+     {
+        "id": "24",
+        "name": "劳动分工",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+     {
+        "id": "25",
+        "name": "信息沟通",
+        "symbolSize":4,
+        "value": 4,
+        "x": -737.701546,
+        "y": 642.55057,
+        "category": 6
+      },
+     {
+        "id": "26",
+        "name": "团结",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 342.55057,
+        "category": 3
+      },
+     {
+        "id": "27",
+        "name": "公平",
+        "symbolSize":3,
+        "value": 3,
+        "x": -507.701546,
+        "y": 442.55057,
+        "category": 4
+      },
+     {
+        "id": "28",
+        "name": "监督",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 772.55057,
+        "category": 3
+      },
+     {
+        "id": "29",
+        "name": "价值判断",
+        "symbolSize":1,
+        "value": 1,
+        "x": -777.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+     {
+        "id": "30",
+        "name": "影响决策",
+        "symbolSize":1,
+        "value": 1,
+        "x": -667.701546,
+        "y": 542.55057,
+        "category": 3
+      },
+     {
+        "id": "31",
+        "name": "短期利益",
+        "symbolSize":1,
+        "value": 1,
+        "x": -527.701546,
+        "y": 662.55057,
+        "category": 3
+      },
+     {
+        "id": "33",
+        "name": "良好氛围",
+        "symbolSize":3,
+        "value": 3,
+        "x": -427.701546,
+        "y": 562.55057,
+        "category": 4
+      },
+     {
+        "id": "34",
+        "name": "自称团体",
+        "symbolSize":1,
+        "value": 1,
+        "x": -887.701546,
+        "y": 662.55057,
+        "category": 3
+      },
+     {
+        "id": "35",
+        "name": "影响正式组织运转",
+        "symbolSize":2,
+        "value": 2,
+        "x": -527.701546,
+        "y": 882.55057,
+        "category": 2
+      },
+      {
+        "id": "32",
+        "name": "活跃",
+        "symbolSize": 2,
+        "x": -516.55884,
+        "y": -393.98975,
+        "value": 2,
+        "category": 2
+      }
+    ],
+    "links": [
+      {
+        "source": "22",
+        "target": "1"
+      },
+      {
+        "source": "1",
+        "target": "0"
+      },
+      {
+        "source": "0",
+        "target": "2"
+      },
+      {
+        "source": "0",
+        "target": "3"
+      },
+      {
+        "source": "0",
+        "target": "4"
+      },
+      {
+        "source": "23",
+        "target": "2"
+      },
+      {
+        "source": "0",
+        "target": "5"
+      },
+      {
+        "source": "2",
+        "target": "6"
+      },
+      {
+        "source": "7",
+        "target": "4"
+      },
+      {
+        "source": "7",
+        "target": "6"
+      },
+      {
+        "source": "8",
+        "target": "7"
+      },
+      {
+        "source": "7",
+        "target": "9"
+      },
+      {
+        "source": "7",
+        "target": "20"
+      },
+      {
+        "source": "21",
+        "target": "7"
+      },
+      {
+        "source": "35",
+        "target": "7"
+      },
+      {
+        "source": "4",
+        "target": "8"
+      },
+      {
+        "source": "4",
+        "target": "9"
+      },
+      {
+        "source": "9",
+        "target": "10"
+      },
+      {
+        "source": "11",
+        "target": "3"
+      },
+      {
+        "source": "11",
+        "target": "25"
+      },
+      {
+        "source": "11",
+        "target": "27"
+      },
+      {
+        "source": "11",
+        "target": "32"
+      },
+      {
+        "source": "11",
+        "target": "33"
+      },
+      {
+        "source": "3",
+        "target": "12"
+      },
+      {
+        "source": "3",
+        "target": "13"
+      },
+      {
+        "source": "11",
+        "target": "13"
+      },
+      {
+        "source": "25",
+        "target": "13"
+      },
+      {
+        "source": "13",
+        "target": "27"
+      },
+      {
+        "source": "33",
+        "target": "13"
+      },
+      {
+        "source": "3",
+        "target": "14"
+      },
+      {
+        "source": "25",
+        "target": "14"
+      },
+      {
+        "source": "3",
+        "target": "15"
+      },
+      {
+        "source": "0",
+        "target": "16"
+      },
+      {
+        "source": "2",
+        "target": "17"
+      },
+      {
+        "source": "2",
+        "target": "18"
+      },
+      {
+        "source": "19",
+        "target": "20"
+      },
+      {
+        "source": "19",
+        "target": "21"
+      },
+      {
+        "source": "2",
+        "target": "23"
+      },
+      {
+        "source": "3",
+        "target": "24"
+      },
+      {
+        "source": "3",
+        "target": "25"
+      },
+      {
+        "source": "3",
+        "target": "26"
+      },
+      {
+        "source": "3",
+        "target": "27"
+      },
+      {
+        "source": "2",
+        "target": "28"
+      },
+      {
+        "source": "3",
+        "target": "28"
+      },
+      {
+        "source": "3",
+        "target": "29"
+      },
+      {
+        "source": "4",
+        "target": "30"
+      },
+      {
+        "source": "4",
+        "target": "31"
+      },
+      {
+        "source": "3",
+        "target": "32"
+      },
+      {
+        "source": "3",
+        "target": "33"
+      },
+      {
+        "source": "6",
+        "target": "34"
+      },
+      {
+        "source": "6",
+        "target": "35"
+      },
+      {
+        "source": "22",
+        "target": "0"
+      }
+    ],
+    "categories": [
+      {
+        "name": "类目0"
+      },
+      {
+        "name": "类目1"
+      },
+      {
+        "name": "类目2"
+      },
+      {
+        "name": "类目3"
+      },
+      {
+        "name": "类目4"
+      },
+      {
+        "name": "类目6"
+      },
+      {
+        "name": "类目5"
+      }
+    ]
+  }
